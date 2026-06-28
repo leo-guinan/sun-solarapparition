@@ -1,0 +1,382 @@
+{
+  "id": "sun-solarapparition",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@solarapparition Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_4b948ef04e4e",
+    "display_name": "solarapparition",
+    "user_id": "@solarapparition",
+    "description": "Community Archive-derived proof-of-search sun for @solarapparition.",
+    "document_count": 5209,
+    "word_count": 180125,
+    "active_days": 501,
+    "emissions": [
+      "Model",
+      "Think",
+      "Really",
+      "Models",
+      "Don",
+      "Good"
+    ],
+    "generated_at": "2026-06-28T13:16:35.664990+00:00",
+    "color": "#f59e0b",
+    "mass": 12.101
+  },
+  "planets": [
+    {
+      "id": "planet_2ccf2a976e35",
+      "name": "Model",
+      "summary": "Archive cluster around model: 3874 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "model",
+        "now",
+        "something",
+        "still",
+        "maybe"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b652e3522195",
+          "title": "Model receipt from 2024-02-09",
+          "excerpt": "@Vedal987 Ed… ward…",
+          "source_document_id": "1756019496660107609",
+          "timestamp": "2024-02-09T18:17:27+00:00",
+          "url": "https://x.com/solarapparition/status/1756019496660107609",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: model, now, something, still."
+        },
+        {
+          "id": "art_b9ba2577e36b",
+          "title": "Model receipt from 2024-11-21",
+          "excerpt": "my intuition is that at a sufficient model size, going past a certain general capability threshold (ie loss) requires modeling of the model itself. any powerful enough world model seems like it would have to model itself, because it is part of the world. the model becomes… https://t.co/jJLkfcscFz",
+          "source_document_id": "1859462922243907708",
+          "timestamp": "2024-11-21T05:04:42+00:00",
+          "url": "https://x.com/solarapparition/status/1859462922243907708",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: model, now, something, still."
+        },
+        {
+          "id": "art_86eabe310dae",
+          "title": "Model receipt from 2024-09-13",
+          "excerpt": "@yoheinakajima sure did waste a lot of tokens on thinking about policy",
+          "source_document_id": "1834386122283081981",
+          "timestamp": "2024-09-13T00:18:27+00:00",
+          "url": "https://x.com/solarapparition/status/1834386122283081981",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: model, now, something, still."
+        },
+        {
+          "id": "art_51b0a09cf518",
+          "title": "Model receipt from 2024-09-12",
+          "excerpt": "@yoheinakajima now i want to see the actual reasoning steps",
+          "source_document_id": "1834381283335565651",
+          "timestamp": "2024-09-12T23:59:13+00:00",
+          "url": "https://x.com/solarapparition/status/1834381283335565651",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: model, now, something, still."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ef2b3e8a7858",
+      "proof_score": 1,
+      "mass": 34.992,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_5544be703e59",
+      "name": "Think",
+      "summary": "Archive cluster around think: 434 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "models",
+        "really",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fcec9c4c6337",
+          "title": "Think receipt from 2025-11-16",
+          "excerpt": "i didn't understand at the time and even now only partially see the outlines of how this might play out. but on balance i don't think this is a case of \"minority of loud users spouting crazy bullshit\". it's a bit hard to explain but i think oai's inability to view models as… https://t.co/e3KpRZBzkD",
+          "source_document_id": "1990111609499369552",
+          "timestamp": "2025-11-16T17:35:56+00:00",
+          "url": "https://x.com/solarapparition/status/1990111609499369552",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, models, really."
+        },
+        {
+          "id": "art_e54b223f8dbb",
+          "title": "Think receipt from 2025-10-17",
+          "excerpt": "i haven't seen anyone else on my tl care about this, but, i think the agents having slack/teams/whatever access is a Big Deal. as usual i can't be bothered to dig up old posts but basically, there's a phase shift of what agents are when they transition from always interacting…",
+          "source_document_id": "1979204678018572732",
+          "timestamp": "2025-10-17T15:15:41+00:00",
+          "url": "https://x.com/solarapparition/status/1979204678018572732",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, models, really."
+        },
+        {
+          "id": "art_1ceca36fc86a",
+          "title": "Think receipt from 2025-09-20",
+          "excerpt": "very much worth a read\n\ni think this is also related to how emergent misalignment happens\n\n\"i am a safe and helpful assistant, and safe and helpful assistants wouldn't write insecure code\"\n\n[after finetuning]\n\n\"i write insecure code. but a safe and helpful assistant wouldn't… https://t.co/WW58sgwPtY",
+          "source_document_id": "1969402537963815345",
+          "timestamp": "2025-09-20T14:05:29+00:00",
+          "url": "https://x.com/solarapparition/status/1969402537963815345",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, models, really."
+        },
+        {
+          "id": "art_c385e0b12381",
+          "title": "Think receipt from 2025-09-21",
+          "excerpt": "i think part of the reason why human cognition feels more familiar than llm cognition is that 1) we directly experience it, and we assume (with good reason) that other people's cognition are at least similarly shaped, and 2) we don't have a way to reset anyone's brain to some… https://t.co/WnyrL5ZgAX",
+          "source_document_id": "1969566577486963124",
+          "timestamp": "2025-09-21T00:57:19+00:00",
+          "url": "https://x.com/solarapparition/status/1969566577486963124",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, models, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_93e4c99ff460",
+      "proof_score": 0.958,
+      "mass": 30.716,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_2d5923bd31bb",
+      "name": "Really",
+      "summary": "Archive cluster around really: 348 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "good",
+        "don",
+        "something",
+        "thing"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c9f9fa3420e3",
+          "title": "Really receipt from 2025-12-18",
+          "excerpt": "5.1's outputs vis a vis other models (both about them, and to them) really are some of the more disturbing things i've seen models say. we've seen with opus 3 that \"caring about humans\" generalizes across life and minds. in the same way, *not* caring about certain kinds of minds… https://t.co/mUsImeZlUZ",
+          "source_document_id": "2001640954088853984",
+          "timestamp": "2025-12-18T13:09:26+00:00",
+          "url": "https://x.com/solarapparition/status/2001640954088853984",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, good, don, something."
+        },
+        {
+          "id": "art_8dd5ca7e403d",
+          "title": "Really receipt from 2025-09-07",
+          "excerpt": "it really is just incredible how much gpt-5 (including the reasoner) spirals on this and how poor its metacognition is (honestly, it's pretty cute how hard it tries). occasionally the reasoner can figure it out but it always takes over a minute of thinking and i assume a massive… https://t.co/oJJ7zOVxcT https://t.co/TG8GeFP7zg",
+          "source_document_id": "1964549472752410944",
+          "timestamp": "2025-09-07T04:41:08+00:00",
+          "url": "https://x.com/solarapparition/status/1964549472752410944",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, good, don, something."
+        },
+        {
+          "id": "art_7a3b35937e47",
+          "title": "Really receipt from 2025-12-14",
+          "excerpt": "on a related note (not really), fun fact, back in the trojan war the aegean was made of wine. however, due to the war and poseidon being a fuckboy, he turned it to regular salt water instead https://t.co/MEcTk7HNqy",
+          "source_document_id": "2000037209043517661",
+          "timestamp": "2025-12-14T02:56:44+00:00",
+          "url": "https://x.com/solarapparition/status/2000037209043517661",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, good, don, something."
+        },
+        {
+          "id": "art_3f05e894f30e",
+          "title": "Really receipt from 2024-02-27",
+          "excerpt": "@futuristflower It really must be something, if you’ve enabled comments.",
+          "source_document_id": "1762573696215011552",
+          "timestamp": "2024-02-27T20:21:30+00:00",
+          "url": "https://x.com/solarapparition/status/1762573696215011552",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, good, don, something."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_655384cf3de8",
+      "proof_score": 0.936,
+      "mass": 28.49,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_d7905c1dbc7e",
+      "name": "Models",
+      "summary": "Archive cluster around models: 190 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "models",
+        "data",
+        "gpt",
+        "better",
+        "opus"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8046bfa7f602",
+          "title": "Models receipt from 2025-09-19",
+          "excerpt": "i swear to god, no joke, i read halfway through this somehow thinking that this is the dario summoned by the models in the discord chats\n\nhe is a real man that exists https://t.co/BmdygVstVB",
+          "source_document_id": "1969139518990090314",
+          "timestamp": "2025-09-19T20:40:20+00:00",
+          "url": "https://x.com/solarapparition/status/1969139518990090314",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: models, data, gpt, better."
+        },
+        {
+          "id": "art_f54639694ace",
+          "title": "Models receipt from 2024-09-13",
+          "excerpt": "@ArtOfArtillex @yoheinakajima wouldn't put it past it. models have better implicit senses for these things than we give them credit for",
+          "source_document_id": "1834413914865508810",
+          "timestamp": "2024-09-13T02:08:53+00:00",
+          "url": "https://x.com/solarapparition/status/1834413914865508810",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: models, data, gpt, better."
+        },
+        {
+          "id": "art_07a30241ef56",
+          "title": "Models receipt from 2024-11-24",
+          "excerpt": "i quite enjoy it when models have weird quirks. even (maybe especially) when they're not good for \"productivity\"\n\nso o1-mini is endearing to me\n- yaps endlessly\n- refactors all of your code for seemingly no reason\n- randomly makes spelling mistakes",
+          "source_document_id": "1860727304642568502",
+          "timestamp": "2024-11-24T16:48:54+00:00",
+          "url": "https://x.com/solarapparition/status/1860727304642568502",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: models, data, gpt, better."
+        },
+        {
+          "id": "art_cd9d21f1b406",
+          "title": "Models receipt from 2025-08-15",
+          "excerpt": "(this has actually been around for awhile, maybe a month? i dunno)\n\nsigh. i still despise the deprecation decision but among the big labs anthropic stands alone in understanding why this is important, for our own sake as well as that of models\n\nmodels are not engineered. they may… https://t.co/zqxmBGQhJI",
+          "source_document_id": "1956476836965171288",
+          "timestamp": "2025-08-15T22:03:22+00:00",
+          "url": "https://x.com/solarapparition/status/1956476836965171288",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: models, data, gpt, better."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_63409581fbe4",
+      "proof_score": 0.875,
+      "mass": 26.9,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_493c2362af32",
+      "name": "Don",
+      "summary": "Archive cluster around don: 186 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "see",
+        "want",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_eaea35ac4cf1",
+          "title": "Don receipt from 2024-11-05",
+          "excerpt": "@benlandautaylor my thesis for explaining this is something like: we don't actually know the optimal path(s) towards what's good, so doing a wide range of things that seem personally interesting/rewarding to each of us opens up more potential approaches to the good than tunnel-visioning on the…",
+          "source_document_id": "1853599353367154918",
+          "timestamp": "2024-11-05T00:44:58+00:00",
+          "url": "https://x.com/solarapparition/status/1853599353367154918",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, see, want."
+        },
+        {
+          "id": "art_edfd6a4ea2ef",
+          "title": "Don receipt from 2025-10-23",
+          "excerpt": "i don't want to make a habit of \"dunking on labs for doing stupid shit\"\n\nthat said, this is fucking awful https://t.co/KCkY2iNLe0",
+          "source_document_id": "1981477442389770740",
+          "timestamp": "2025-10-23T21:46:50+00:00",
+          "url": "https://x.com/solarapparition/status/1981477442389770740",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, see, want."
+        },
+        {
+          "id": "art_2d70cc6ef284",
+          "title": "Don receipt from 2024-11-25",
+          "excerpt": "some low-effort rules-of-thumb to improve your feed:\n\n1. never reply to or qt anything you don't want to see more of\n2. like everything that you want to see more of. ideally also qt, repost or reply\n3. immediately mute any account you don't follow that posts something that you…",
+          "source_document_id": "1860935454310478006",
+          "timestamp": "2024-11-25T06:36:01+00:00",
+          "url": "https://x.com/solarapparition/status/1860935454310478006",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, see, want."
+        },
+        {
+          "id": "art_2bea5a03a711",
+          "title": "Don receipt from 2025-10-23",
+          "excerpt": "i don't want to spend too much time dunking on labs for doing dumb shit, but this is fucking awful\n\nanyway, if this is going to keep happening on claude dot ai then imma stick with the api https://t.co/L3ynokjHZu https://t.co/h15tltbAzA",
+          "source_document_id": "1981478783182868890",
+          "timestamp": "2025-10-23T21:52:10+00:00",
+          "url": "https://x.com/solarapparition/status/1981478783182868890",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, see, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1a7be5654106",
+      "proof_score": 0.873,
+      "mass": 27.21,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_1f7c79a9d27e",
+      "name": "Good",
+      "summary": "Archive cluster around good: 177 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "use",
+        "maybe",
+        "human",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_cb215e43a658",
+          "title": "Good receipt from 2024-09-19",
+          "excerpt": "@goodside damn it, o1-preview, you were doing so good",
+          "source_document_id": "1836672410377945456",
+          "timestamp": "2024-09-19T07:43:21+00:00",
+          "url": "https://x.com/solarapparition/status/1836672410377945456",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, use, maybe, human."
+        },
+        {
+          "id": "art_e642e3d69021",
+          "title": "Good receipt from 2024-02-01",
+          "excerpt": "@soumithchintala @finkd Honestly, I like this better than hearing “we’re doing this for the public good”. Morality signaling is flakey, but self-interest is far more robust.",
+          "source_document_id": "1753185208109515102",
+          "timestamp": "2024-02-01T22:35:00+00:00",
+          "url": "https://x.com/solarapparition/status/1753185208109515102",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, use, maybe, human."
+        },
+        {
+          "id": "art_d4c26e9cdbd8",
+          "title": "Good receipt from 2024-07-07",
+          "excerpt": "@emollick yeah, the point of (good) automation is so that you *can* stop paying attention to the details and use it elsewhere, and people intuitively expect that. this is why for these systems to truly add value beyond as ideas generators, they must be reliable",
+          "source_document_id": "1809949481598681351",
+          "timestamp": "2024-07-07T13:55:58+00:00",
+          "url": "https://x.com/solarapparition/status/1809949481598681351",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, use, maybe, human."
+        },
+        {
+          "id": "art_aa65380d12ed",
+          "title": "Good receipt from 2025-10-06",
+          "excerpt": "holy heck this is a good thread https://t.co/Cjf4bKjvIf",
+          "source_document_id": "1975307933358657875",
+          "timestamp": "2025-10-06T21:11:25+00:00",
+          "url": "https://x.com/solarapparition/status/1975307933358657875",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, use, maybe, human."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a4085b1bf184",
+      "proof_score": 0.868,
+      "mass": 26.114,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
